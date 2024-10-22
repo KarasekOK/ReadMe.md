@@ -1,3 +1,11 @@
 Karas zkousi
 
-yes yesS
+yes yes
+
+
+kdo
+co 
+proc
+kdy
+jak
+jofakt
