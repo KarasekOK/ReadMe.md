@@ -1,3 +1,0 @@
-Karas zkousi
-
-yes yesS
